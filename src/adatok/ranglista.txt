@@ -2,9 +2,9 @@ UtolsoProba;21
 
 vizsga;16
 
+k;15
+
 jatekos6;6
 
 jatekos5;5
-
-jatekos4;4
 
